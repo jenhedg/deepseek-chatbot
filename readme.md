@@ -1,7 +1,7 @@
 # 🤖 DeepSeek Chatbot: Python + Streamlit App
 ## About
 
-The **DeepSeek Chatbot** is a beginner-friendly project designed to teach the fundamentals of a local AI development ecosystem. This application is local chatbot powered by a DeepSeek model and served via a Streamlit UI.
+The **DeepSeek Chatbot** is a beginner-friendly project designed to teach the fundamentals of an AI development ecosystem. This application is local chatbot powered by a DeepSeek model and served via a Streamlit UI.
 
 ### 🛠️ Key Technologies
 
@@ -22,7 +22,7 @@ Ensure the following tools and resources are available before starting the insta
   * **Pip**: Python's package installer.
   * **GPT4ALL**: The application and model management tool.
   * **Model**: The **DeepSeek-R1-Distill-Qwen-1.5B** model file.
-  * **Code Editor**: E.g., [VSCode](https://code.visualstudio.com/) for development.
+  * **Code Editor**: E.g., [VSCode](https://code.visualstudio.com/).
 
 -----
 
@@ -73,7 +73,6 @@ This application uses the **DeepSeek-R1-Distill-Qwen-1.5B** model, which must be
 Once the environment is set up and the model is configured, you can launch the Streamlit app.
 
 ```bash
-# Ensure your virtual environment is still active
 streamlit run app.py
 ```
 
