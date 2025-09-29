@@ -1,5 +1,12 @@
 # Python + Streamlit + DeepSeek Chatbot App
 
+# About
+DeepSeek Chatbot is the product of my desire to begin learning the AI development ecosystem, and runs on the following tools:
+
+1. Python, for all the things
+2. Streamlit, for local dev server and UI
+3. GPT4ALL local API server, server
+
 ## Prerequisites
 - [Python](https://www.python.org/)
 - [Pip](https://pypi.org/project/pip/)
