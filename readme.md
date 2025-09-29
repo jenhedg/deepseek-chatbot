@@ -1,4 +1,7 @@
-# Python + DeepSeek + Streamlit Chatbot App
+# Python + Streamlit + DeepSeek Chatbot App
+
+Model: https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+GPT4ALL: https://docs.gpt4all.io/index.html
 
 ## Installation
 
@@ -20,5 +23,5 @@ pip install -r requirements.txt
 ````
 6. Start Streamlit
 ```bash
-stremlit run app.py
+streamlit run app.py
 ````
