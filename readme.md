@@ -1,7 +1,12 @@
 # Python + Streamlit + DeepSeek Chatbot App
 
-Model: https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
-GPT4ALL: https://docs.gpt4all.io/index.html
+## Prerequisites
+- [Python](https://www.python.org/)
+- [Pip](https://pypi.org/project/pip/)
+- [Model](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
+- [GPT4ALL](https://docs.gpt4all.io/index.html)
+- [Streamlit](https://streamlit.io/)
+- A code editor for your choice. I like [VSCode](https://code.visualstudio.com/)
 
 ## Installation
 
